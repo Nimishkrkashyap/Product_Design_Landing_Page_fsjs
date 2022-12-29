@@ -272,9 +272,9 @@ html,body{
   position: relative;
 }
 .footer_logo{
-  position: fixed;
-  left: 10rem;
-  top: 10rem;
+  position: absolute;
+  left: 16.5vw;
+  bottom: 2rem;
   height: 3rem;
 }
 .footer_link{
@@ -287,7 +287,7 @@ html,body{
   margin: 0 2rem;
   height: 1.5rem;
 }
-a
+
 @media (max-width: 1080px) {
   html {
     font-size: 50%;
@@ -316,6 +316,9 @@ a
   }
   .footer_nav_link{
     font-size: 1.6rem;
+  }
+  .footer_logo{
+    left: 12vw;
   }
 
   /* Contact */
@@ -367,6 +370,9 @@ a
   }
   .about_bottom_card h3{
     font-size: 1.3rem;
+  }
+  .footer_logo{
+    left: 10vw;
   }
 }
 @media (max-width: 550px) {
