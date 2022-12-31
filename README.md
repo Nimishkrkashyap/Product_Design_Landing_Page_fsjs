@@ -18,6 +18,6 @@
 ---
 ## 🚀  Project Live Link <br>
 ---
-This project is hosted on netlify. [Live Project Link](https://visionary-blini-eb948a.netlify.app/)
+This project is hosted on netlify. [Live Project Link](https://magical-tapioca-bdce0d.netlify.app/)
 
 ![Product Design Landing Page](./thumbnail.png)
